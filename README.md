@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
 ### Hi there 👋 I'm Mario Toj,
 
 I am in my second year of university in systems engineering, looking for my next challenge in this world of programming.
